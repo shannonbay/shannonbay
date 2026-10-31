@@ -4,7 +4,7 @@ Senior software engineer in Wellington, New Zealand. Fifteen years of integratio
 
 ## Apps I've shipped
 
-- **[Crate](https://shannonbay.github.io/crate/)**: a music player for Windows built around albums and artists. Bulk tag editing, album notes, custom covers, band members and skins; your data stays on your PC. Tauri, Rust and TypeScript. [Download](https://github.com/shannonbay/crate/releases/latest)
+- **[Crate](https://shannonbay.github.io/crate/)**: a music player for Windows built around albums and artists. Bulk tag editing, album notes, custom covers, band members and skins; your data stays on your PC. Built with Claude Code and released in ten days, then shaped by its first users' feedback. Tauri, Rust and TypeScript. [Download](https://github.com/shannonbay/crate/releases/latest)
 - **[Rereader](https://shannonbay.github.io/rereader/)**: an Android app for reading and memorising the Bible by active recall: you pick the first letter of each word as you read. In testing on Google Play. Kotlin.
 
 ## Tools for AI coding agents
