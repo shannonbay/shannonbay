@@ -9,7 +9,7 @@ Senior software engineer in Wellington, New Zealand. Fifteen years of integratio
 
 ## Tools for AI coding agents
 
-- **[Conductor](https://github.com/shannonbay/Conductor)**: an MCP server that gives an agent a persistent task tree outside its context window, so long-running work survives context compaction.
+- **[Conductor](https://github.com/shannonbay/Conductor)**: runs standing goals for Claude Code, like keeping an inbox under control. It wakes a fresh agent on a schedule with the goal's instructions and memory, and waits for your approval before the agent acts on its own.
 - **[create-skills](https://github.com/shannonbay/create-skills)**: an Agent Skill that writes new Agent Skills.
 - **[setup-structure-index](https://github.com/shannonbay/setup-structure-index)**: a skill that keeps a lightweight map of a codebase up to date for the agent.
 
