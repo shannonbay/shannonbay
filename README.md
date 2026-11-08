@@ -9,7 +9,7 @@ Senior software engineer in Wellington, New Zealand. Fifteen years of integratio
 
 ## Tools for AI coding agents
 
-- **[Conductor](https://github.com/shannonbay/Conductor)**: runs standing goals for Claude Code, like keeping an inbox under control. It wakes a fresh agent on a schedule with the goal's instructions and memory, and waits for your approval before the agent acts on its own. A Claude Code plugin adds a Goals pane, alerts and /goal commands so you can watch and steer goals from the session.
+- **[Conductor](https://github.com/shannonbay/Conductor)**: runs standing goals for Claude Code, like keeping an inbox under control. It wakes a fresh agent on a schedule with the goal's instructions and memory, and waits for your approval before the agent acts on its own. A Claude Code plugin adds a Goals pane, alerts and /goal commands, and can schedule and run goals by itself, without the web server.
 - **[create-skills](https://github.com/shannonbay/create-skills)**: an Agent Skill that writes new Agent Skills.
 - **[setup-structure-index](https://github.com/shannonbay/setup-structure-index)**: a skill that keeps a lightweight map of a codebase up to date for the agent.
 
